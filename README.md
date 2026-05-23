@@ -1,1 +1,1 @@
-#A Coding Platform Copy
+A Coding Platform Copy
